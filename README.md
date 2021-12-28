@@ -1,1 +1,1 @@
-\[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandsimmy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandsimmy)](https://github.com/anuraghazra/github-readme-stats)
