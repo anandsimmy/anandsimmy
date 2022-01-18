@@ -11,4 +11,4 @@ I’m Anand Simmy, a Frontend Engineer and Coder who specializes in Javascript t
 
 Want to know more about me? [Check out my portfolio.](https://anandsimmy.com/)
 
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandsimmy)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anandsimmy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anandsimmy&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Anand Simmy's github stats" /></a>  <a href="https://github.com/anandsimmy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsimmy&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&layout=compact&hide_border=true" /></a>
