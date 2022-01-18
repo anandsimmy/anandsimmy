@@ -1,4 +1,4 @@
-[![Anand Simmy's GitHub Banner](./assets/GithubHeader.png)](https://github.com/anandsimmy)
+[![Anand Simmy's GitHub Banner](./assets/GithubHeader.png)](https://www.linkedin.com/in/anandsimmy/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anandsimmy&label=Profile%20views&color=5bc431&style=flat)](https://anandsimmy.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anandsimmy/)
