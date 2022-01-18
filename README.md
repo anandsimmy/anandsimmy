@@ -17,10 +17,11 @@ Want to know more about me? [Check out my portfolio.](https://anandsimmy.com/)
 
 <table>
   <tr>
+  <td rowspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsimmy&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="anandsimmy" />
+  </td>
     <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandsimmy&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Anand Simmy's github stats" />
     </td>
-    <td rowspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsimmy&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="anandsimmy" /></td>
   </tr>
   <tr>
     <td>
