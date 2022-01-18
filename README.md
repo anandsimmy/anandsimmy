@@ -20,8 +20,8 @@ Want to know more about me? [Check out my portfolio.](https://anandsimmy.com/)
     <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandsimmy&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Anand Simmy's github stats" />
     </td>
-    <!-- <td rowspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsimmy&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="anandsimmy" /></td>
-  </tr> -->
+    <td rowspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsimmy&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="anandsimmy" /></td>
+  </tr>
   <tr>
     <td>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anandsimmy&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD2727&currStreakLabel=7a58d5&fire=DD2727" alt="anandsimmy" />
