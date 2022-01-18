@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anandsimmy&label=Profile%20views&color=5bc431&style=flat)](https://anandsimmy.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anandsimmy/)
-[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@anandsimmy7)
+[![Medium Badge](https://img.shields.io/badge/Medium-Blog-informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@anandsimmy7)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AnandSimmy)
 
 Hey there 👋
