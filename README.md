@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I’m Anand Simmy, a Frontend Engineer and Coder who specializes in Javascript technologies. I love building and experimenting things with Javascript.
+I’m Anand Simmy, a Fullstack Engineer and Coder who specializes in Web technologies. I love building and experimenting things.
 
 Want to know more about me? [Check out my portfolio.](https://anandsimmy.com/)
 
