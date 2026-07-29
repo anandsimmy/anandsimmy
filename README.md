@@ -20,7 +20,7 @@ Want to know more about me? [Check out my portfolio.](https://anandsimmy.com/)
     </td>
     <td rowspan="2">
     <a href="https://github.com/anandsimmy">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsimmy&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="anandsimmy" />
+        <img align="center" src="https://github-stats-extended.vercel.app/api?username=anandsimmy?locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="anandsimmy" />
     </a>
     </td>
   </tr>
